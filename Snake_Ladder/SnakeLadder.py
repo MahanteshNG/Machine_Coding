@@ -48,3 +48,5 @@ while max<100:
             print("%s rolled a %d and moved from %d to %d" %(name,dice,currentposition,nextposition));
 
 
+#in bash USE cat Sample_Input | SnakeLadder.py cmd to use input ftom the file.
+#in cmd use Sample_Input SnakeLadder.py
